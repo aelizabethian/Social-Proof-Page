@@ -8,7 +8,7 @@ body {
   font-family: "Spartan", sans-serif;
   margin-top: 75px;
   font-size: 15px;
-  background: no-repeat url("../images/bg-pattern-top-mobile.svg");
+  background: no-repeat url("./images/bg-pattern-top-mobile.svg");
 }
 
 h1 {
@@ -104,7 +104,7 @@ a {
 
 @media (min-width: 1280px) {
   body {
-    background: no-repeat url("../images/bg-pattern-top-desktop.svg");
+    background: no-repeat url("./images/bg-pattern-top-desktop.svg");
   }
 
   h1 {
