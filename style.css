@@ -107,7 +107,7 @@ a {
     background-image: url("images/bg-pattern-top-desktop.svg"),
       url("images/bg-pattern-bottom-desktop.svg");
     background-repeat: no-repeat, no-repeat;
-    background-position: top left, bottom -100px right -50px;
+    background-position: top left, bottom -80% right;
   }
 
   h1 {
@@ -117,7 +117,7 @@ a {
     margin-left: 0;
   }
   .mainWrapper {
-    margin-top: 110px;
+    margin-top: 70px;
     grid-template-columns: repeat(2, 1fr);
     width: 80%;
   }
@@ -164,6 +164,7 @@ a {
   }
 
   .boxContainer {
+    margin-top: 30px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-column: 1/-1;
