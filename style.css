@@ -107,7 +107,7 @@ a {
     background-image: url("images/bg-pattern-top-desktop.svg"),
       url("images/bg-pattern-bottom-desktop.svg");
     background-repeat: no-repeat, no-repeat;
-    background-position: top left, bottom -80% right;
+    background-position: top left, bottom -50% right 30%;
   }
 
   h1 {
